@@ -2,7 +2,6 @@
 
 ## 🇬🇧 English
 
-[Dowload Weather Check](https://github.com/mat-jan/Weather-Check/raw/refs/heads/main/dist/Weather%20Check.exe)
 
 ### 🧾 About  
 **Weather Check** is a simple **command-line weather application** built with Python and distributed as a standalone `.exe` file.  
@@ -40,7 +39,6 @@ You can:
 
 ## Polski
 
-[Pobierz Weather Check](https://github.com/mat-jan/Weather-Check/raw/refs/heads/main/dist/Weather%20Check.exe)
 
 ### 🧾 O aplikacji
 **Weather Check** to prosta **aplikacja pogodowa z wiersza poleceń** stworzona w Pythonie i dystrybuowana jako samodzielny plik `.exe`.
