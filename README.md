@@ -23,7 +23,7 @@ You can:
 ---
 
 ### 💻 Installation
-1. Download the latest **WeatherCheck.exe** from the [Releases](https://github.com/YOUR_USERNAME/weather-check/releases) page.  
+1. Download the latest **WeatherCheck.exe** from the [Releases](https://github.com/mat-jan/weather-check/releases) page.  
 2. Save it anywhere on your computer (e.g. Desktop or Documents).  
 3. You’re ready to go — no Python installation required!
 
@@ -62,7 +62,7 @@ Możesz:
 ---
 
 ### 💻 Instalacja
-1. Pobierz najnowszą wersję pliku **WeatherCheck.exe** ze strony [Wersje](https://github.com/TWOJA_NAZWA_UŻYTKOWNIKA/weather-check/releases).
+1. Pobierz najnowszą wersję pliku **WeatherCheck.exe** ze strony [Wersje](https://github.com/mat-jan/weather-check/releases).
 2. Zapisz ją w dowolnym miejscu na komputerze (np. na Pulpicie lub w Dokumentach).
 3. Gotowe — instalacja Pythona nie jest wymagana!
 
